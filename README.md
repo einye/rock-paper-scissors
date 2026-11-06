@@ -12,9 +12,9 @@ A real-time Rock-Paper-Scissors game where you play using **hand gestures** in f
 ### Supported Gestures
 | Gesture | Hand Shape |
 |---------|------------|
-| 🪨 Rock | Fist (no fingers raised) |
-| ✂️ Scissors | Index + middle fingers raised (a peace sign is better detected :) |
-| 📄 Paper | At least four fingers raised |
+| Rock | Fist (no fingers raised) |
+| Scissors | Index + middle fingers raised (a peace sign is better detected :) |
+| Paper | At least four fingers raised |
 
 ### Game Modes
 - **1 Player** — Play against the computer (random move).
@@ -22,12 +22,12 @@ A real-time Rock-Paper-Scissors game where you play using **hand gestures** in f
 
 The mode is chosen automatically based on how many hands are detected at the "SHOOT!" moment.
 
-## 🛠️ Requirements
+## Requirements
 
 - Webcam
 - **Python 3.12** (recommended — installs cleanly without dependency conflicts)
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repo
