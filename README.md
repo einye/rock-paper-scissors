@@ -1,6 +1,6 @@
 # Hand Gesture Rock-Paper-Scissors
 
-A real-time Rock-Paper-Scissors game where you play using **hand gestures** in front of your webcam — no keyboard, no mouse, no controller. Built with [OpenCV](https://opencv.org/) and [MediaPipe](https://developers.google.com/mediapipe).
+A real time Rock-Paper-Scissors game where you play using **hand gestures** in front of your webcam. Built with [OpenCV](https://opencv.org/) and [MediaPipe](https://developers.google.com/mediapipe).
 
 ## How to Play
 
@@ -17,15 +17,15 @@ A real-time Rock-Paper-Scissors game where you play using **hand gestures** in f
 | Paper | At least four fingers raised |
 
 ### Game Modes
-- **1 Player** — Play against the computer (random move).
-- **2 Player** — Both players show a hand at the same time; winner is decided locally.
+- **1 Player** - Play against the computer (random move).
+- **2 Player** - Both players show a hand at the same time; winner is decided locally.
 
-The mode is chosen automatically based on how many hands are detected at the "SHOOT!" moment.
+The mode is chosen automatically based on how many hands are detected at the "SHOOT!".
 
 ## Requirements
 
 - Webcam
-- **Python 3.12** (recommended — installs cleanly without dependency conflicts)
+- **Python 3.12** (recommended - installs cleanly without dependency conflicts)
 
 ## Installation
 
