@@ -35,8 +35,8 @@ git clone https://github.com/einye/rock_paper_scissors.git
 cd rock_paper_scissors
 
 # (Recommended) Create a virtual environment
-python3.12 -m venv .venv
-\.venv\Scripts\Activate.ps1        # Windows\VSCode\PowerShell_Terminal
+python3 -m venv venv
+source venv/bin/activate        # Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
