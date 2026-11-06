@@ -13,7 +13,7 @@ A real time Rock-Paper-Scissors game where you play using **hand gestures** in f
 | Gesture | Hand Shape |
 |---------|------------|
 | Rock | Fist (no fingers raised) |
-| Scissors | Index + middle fingers raised (a peace sign is better detected :) |
+| Scissors | Index + middle fingers raised (a peace sign is better detected :) ) |
 | Paper | At least four fingers raised |
 
 ### Game Modes
